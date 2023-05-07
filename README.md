@@ -1,10 +1,10 @@
-# <center>#boracodar - Desafio 18</center>
+# <strong><h1 align="center">#boraCodar - Desafio 18</h1></strong>
 
 ![Preview Projeto](.github/boracodar18.png)
 
 Desenvolver uma landing page com cards usando o tema do Star Wars, usar criatividade para ir alem e mostrar como estou progredindo
 
-## 🚀 Tecnologias :rocket:
+## :rocket: Tecnologias 
 
 Esse projeto foi utilizado:
 
@@ -31,5 +31,7 @@ pnpm run dev
 Obs.: a etapa do gitclone pode ser ignorada caso você faça o download direto do projeto
 
 ## Preview
+
+[Site preview](https://boracodar-18.vercel.app/)
 
 Feito com ♥ by [AlysonDev](https://github.com/AlysonDEV)
