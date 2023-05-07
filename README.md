@@ -1,4 +1,4 @@
-# <strong><h1 align="center">#boraCodar - Desafio 18</h1></strong>
+<strong><h1 align="center">#boraCodar - Desafio 18</h1></strong>
 
 ![Preview Projeto](.github/boracodar18.png)
 
